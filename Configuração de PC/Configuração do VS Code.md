@@ -291,14 +291,6 @@
 
 ---
 
-## Snippets Personalizados
-```json
-{
-}
-```
-
----
-
 ## Temas e Aparência
 - Tema: Dark+ (Default Dark)
 - Ícones: Symbols
@@ -306,13 +298,7 @@
 
 ---
 
-## Configurações de Workspace
-```json
-{
-}
-```
-
----
-
 ## Observações
-- 
+- Ambiente configurado para desenvolvimento.
+- Utiliza Fira Code como fonte principal.
+- Extensão Better Comments instalada para melhorar a leitura dos comentários.

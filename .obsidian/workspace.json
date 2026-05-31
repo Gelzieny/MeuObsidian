@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuração de PC/Drives.md",
+                "file": "Configuração de PC/Configuração do VS Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drives"
+              "title": "Configuração do VS Code"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef64faecaf170807",
@@ -186,6 +187,7 @@
   "active": "b447022fc931c9e8",
   "lastOpenFiles": [
     "Configuração de PC/Drives.md",
+    "Configuração de PC/Configuração do VS Code.md",
     "Configuração de PC"
   ]
 }

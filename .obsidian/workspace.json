@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuração de PC/Configuração do VS Code.md",
+                "file": "Trabalho/🔐 Acessos do Trabalho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuração do VS Code"
+              "title": "🔐 Acessos do Trabalho"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef64faecaf170807",
@@ -187,6 +186,8 @@
   "active": "b447022fc931c9e8",
   "lastOpenFiles": [
     "Configuração de PC/Drives.md",
+    "Trabalho/🔐 Acessos do Trabalho.md",
+    "Trabalho",
     "Configuração de PC/Configuração do VS Code.md",
     "Configuração de PC"
   ]

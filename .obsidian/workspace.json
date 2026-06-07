@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuração de PC/Drives.md",
+                "file": "Trabalho/🔐 Acessos do Trabalho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drives"
+              "title": "🔐 Acessos do Trabalho"
             }
           }
         ],
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuração de PC/Drives.md",
+                "file": "Trabalho/🔐 Acessos do Trabalho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Drives"
+              "title": "Links de saída para 🔐 Acessos do Trabalho"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuração de PC/Drives.md",
+                "file": "Trabalho/🔐 Acessos do Trabalho.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drives"
+              "title": "Sumário de 🔐 Acessos do Trabalho"
             }
           },
           {
@@ -247,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c18205f15a43f5d",
+  "active": "006a903667128cdb",
   "lastOpenFiles": [
+    "Configuração de PC/Drives.md",
     "Configuração de PC/Configuração do VS Code.md",
     "Journal/2025-02-17.md",
     "Technical/Snippet/EFCore InMemory Db Config with Test.md",
@@ -290,7 +291,6 @@
     "Business/Journal/Technical/Vlog/an alternative to every apple application lacking in ios 18.md",
     "Business/Journal/Technical/Vlog/Why not ipad anymore.md",
     "Business/Journal/Technical/Vlog/Why did I settle on Bear.md",
-    "Business/Journal/Technical/Vlog/Why Apple Native apps have higher quality.md",
     "Business/Journal/Technical/Technical/Self-Improvement",
     "Business/Journal/Technical/Snippet/Contents",
     "Business/Journal/Technical/Plans/Journal",

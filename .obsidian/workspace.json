@@ -87,6 +87,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "51dc64cc550acda3",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
         ]
       },
@@ -244,10 +254,11 @@
       "bases:Criar nova base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "62e4c6084003c8b3",
+  "active": "42af4f1ef891900d",
   "lastOpenFiles": [
     "Templates/Certificado Curso.md.md",
     "Cursos/Certificado Curso.md 1.md",

@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "006a903667128cdb",
+            "id": "3a8b186927378422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabalho/🔐 Acessos do Trabalho.md",
-                "mode": "preview",
+                "file": "Templates/Certificado Curso.md.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔐 Acessos do Trabalho"
+              "title": "Certificado Curso.md"
             }
           }
         ],
@@ -247,9 +247,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "006a903667128cdb",
+  "active": "42af4f1ef891900d",
   "lastOpenFiles": [
-    "Estudos",
+    "Templates/Certificado Curso.md.md",
+    "Templates",
+    "Cursos/Certificados/Foundations of Project Management.pdf",
+    "Cursos/Sem título.md",
+    "Trabalho/🔐 Acessos do Trabalho.md",
+    "Cursos/Certificados",
+    "Cursos",
     "Configuração de PC/Drives.md",
     "Configuração de PC/Configuração do VS Code.md",
     "Journal/2025-02-17.md",
@@ -289,12 +295,6 @@
     "Business/Journal/Technical/Migrated/assets/Brand-techpress.psd",
     "Business/Journal/Technical/Migrated/assets/Brand-C.psd",
     "Business/Journal/Technical/Migrated/assets/Audio 1.mp4",
-    "Business/Journal/Technical/Vlog/an alternative to every apple application lacking in ios 18.md",
-    "Business/Journal/Technical/Vlog/Why not ipad anymore.md",
-    "Business/Journal/Technical/Technical/Self-Improvement",
-    "Business/Journal/Technical/Snippet/Contents",
-    "Business/Journal/Technical/Plans/Journal",
-    "Business/Journal/Technical/Migrated/assets",
     "Business/Journal/Technical/Migrated/Mind Map.canvas",
     "Journal/Technical/Migrated/Mind Map.canvas",
     "Technical/Migrated/Mind Map.canvas"

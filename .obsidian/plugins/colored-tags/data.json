@@ -261,7 +261,10 @@
     "how": 73,
     "trabalho": 74,
     "credenciais": 75,
-    "acessos": 76
+    "acessos": 76,
+    "python": 77,
+    "curso": 78,
+    "certificado": 79
   },
   "_version": 3
 }

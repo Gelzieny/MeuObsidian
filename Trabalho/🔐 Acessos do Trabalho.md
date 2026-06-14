@@ -86,22 +86,22 @@
 
 ---
 
-## Jenkins
+## Expresso Aplicações
 
 ### DEV
 
 - URL:
     
-- Usuário:
+- Usuário: 02763696104
     
-- Senha:
+- Senha: dbcdcffb
     
 
 ### HML
 
 - URL:
     
-- Usuário:
+- Usuário: 02763696104
     
 - Senha:
     
@@ -110,7 +110,7 @@
 
 - URL:
     
-- Usuário:
+- Usuário: 02763696104
     
 - Senha:
     

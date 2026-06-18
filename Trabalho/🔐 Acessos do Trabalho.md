@@ -119,11 +119,11 @@
 
 ## Banco de Dados
 
-|Ambiente|Host|Banco|Usuário|Senha|
-|---|---|---|---|---|
-|DEV|||||
-|HML|||||
-|PRD|||||
+| Ambiente | Projeto     | Host                               | Banco  | Usuário | Senha    | Porta |
+| -------- | ----------- | ---------------------------------- | ------ | ------- | -------- | ----- |
+| DEV      | CIA - GO.ia | oracledw1corp01.intra.goias.gov.br | BDLIGO | CIAUSER | CIAdes01 | 1521  |
+| HML      |             |                                    |        |         |          |       |
+| PRD      |             |                                    |        |         |          |       |
 
 ---
 
